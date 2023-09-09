@@ -34,7 +34,7 @@ public class Profile {
         return IDNumber;
     }
     
-    public String getDateofCreation()
+    public String getDateOfCreation()
     {
         return dateOfCreation;
     }
